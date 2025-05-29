@@ -2,6 +2,11 @@
 Setting Vscode For Compile And Debuging RP2040
 
 
+First work
+//************************************************
+Bootsell [RP2040] -> Upload *.uf2 ["https://github.com/rgrr/yapicoprobe/releases/tag/rg-1.12"]
+//**************************************************
+
 1: Install VSCODE 
 
 2: Install the Extension [Raspberry Pi Pico]
